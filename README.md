@@ -204,7 +204,7 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Many-to-Many-Relation-Laravel.git
+    git clone https://github.com/Imtiaz-Ali17314/Many-to-Many-Relation-Laravel.git
     cd Many-to-Many-Relation-Laravel
     ```
 2.  **Install Composer Dependencies**:
